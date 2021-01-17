@@ -1,0 +1,22 @@
+Gizlilik Politikası
+
+Scout App, hassas bilgilerinizi asla toplamayacak veya saklamayacak şekilde tasarlanmıştır. Bu Gizlilik Bildirimindeki bölümler size aşağıdakiler hakkında bilgi verir:
+
+Toplanan veri türleri
+Hizmetimize devam etmek için sizden bazı bilgiler alıyoruz. Bu bilgiler arasında ülke bilgisi ve cihaz geçici kimliği (identifierForVendor) yer almaktadır.
+
+Verilerin toplanma amaçları
+Toplanan veriler yalnızca sizi tanımak ve uygulama içi deneyimi iyileştirmek için kullanılmaktadır. Bu tür bilgiler, Uygulamanın nasıl kullanıldığını daha iyi anlamamıza ve bir kullanıcı olarak ihtiyacınıza uygun hizmet üretmemize yardımcı olur.
+
+Verileri korumak için uygulanan güvenlik önlemleri
+Kullanıcı verilerinin saklanması ve güvenliği Google servisleri güvencesindedir.
+
+Üçüncü şahıslarla ilgili sorumluluk sınırları
+• Kullanıcı verileriniz gizlidir. Scout App kişisel verilerinizi veya içeriğinizi hiçbir şekilde satmaz, kiralamaz veya bunlardan para kazanmaz.
+• Hizmet verdiğimiz ülke yasalarının gerektirdiği yükümlülükler karşısında bu verilerin paylaşımı sağlanabilir.
+
+Aşağıdaki servisleri kullanıyoruz
+Google AdMob, Firebase Analytics ve Firebase Database
+
+Bu gizlilik politikasını güncel, doğru ve olabildiğince açık olması için gerektiğinde güncelleyeceğiz. Bu Gizlilik Bildirimini periyodik olarak gözden geçirmek ve güncellemeler hakkında bilgi sahibi olmak sizin sorumluluğunuzdadır. Hizmetlerimizi kullanmaya devam etmeniz, güncellenmiş Gizlilik Politikamızı kabul ettiğinizi onaylar.
+17 Ocak 2021 Tarihinde Güncellendi
