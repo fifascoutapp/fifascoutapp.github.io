@@ -1,0 +1,22 @@
+Privacy Policy
+
+Scout App is designed to never collect or store any sensitive information. Sections in this Privacy Statement provide you with information about:
+
+Types of data received
+We receive some information from you to continue our service. This information includes Country information and Device temporary ID (identifierForVendor).
+
+Purposes of collecting data
+The data collected is used only to get to know you and improve the in-app experience. This type of information helps us to better understand how the Application is used and to produce a service that suits your needs as a user.
+
+Security measures applied to protect Personal Data
+Storage and security of user data is secured by Google services.
+
+Liability limits regarding third parties
+* Your user data is confidential. Scout App does not sell, rent or monetize your personal data or content in any way.
+* These data may be shared against obligations required by the laws of the country we serve.
+
+We have implemented the following services
+Google AdMob, Firebase Analytics and Firebase Database
+
+We will update this privacy policy as necessary to keep it current, accurate, and as open as possible. It is your responsibility to periodically review this Privacy Statement and be informed of updates. Your continued use of our services confirms your acceptance of our updated Privacy Policy.
+Updated January 17, 2021
