@@ -12,8 +12,8 @@ Security measures applied to protect Personal Data
 Storage and security of user data is secured by Google services.
 
 Liability limits regarding third parties
-* Your user data is confidential. Scout App does not sell, rent or monetize your personal data or content in any way.
-* These data may be shared against obligations required by the laws of the country we serve.
+• Your user data is confidential. Scout App does not sell, rent or monetize your personal data or content in any way.
+• These data may be shared against obligations required by the laws of the country we serve.
 
 We have implemented the following services
 Google AdMob, Firebase Analytics and Firebase Database
