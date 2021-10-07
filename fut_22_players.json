@@ -2073,5 +2073,29 @@
         "gk_speed" : 0,
         "gk_positoning" : 0,
         "base_id" : 220306
+      },
+      {
+        "base_id" : 158023,
+        "player_name" : "L. Messi",
+        "player_extended_name" : "Lionel Andrés Messi Cuccittini",
+        "overall" : 93,
+        "quality" : "Gold - Rare",
+        "revision" : "Rare",
+        "club" : "Paris Saint-Germain",
+        "league" : "French Ligue 1",
+        "position" : "RW",
+        "nationality" : "Argentina",
+        "pace" : 85,
+        "shooting" : 92,
+        "passing" : 91,
+        "dribbling" : 95,
+        "defending" : 34,
+        "physicality" : 65,
+        "gk_diving" : 6,
+        "gk_handling" : 11,
+        "gk_kicking" : 15,
+        "gk_positoning" : 14,
+        "gk_reflexes" : 8,
+        "gk_speed" : 0
       }
 ]
