@@ -1,4 +1,5 @@
-[
+{
+"players":[
   {
     "sofifa_id" : 158023,
     "value_eur" : 78000000,
@@ -134673,3 +134674,4 @@
     "release_clause_eur" : 217000
   }
 ]
+}
