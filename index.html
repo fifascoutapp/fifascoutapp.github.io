@@ -29,5 +29,34 @@
 			<font style="color: gray; font-size: 15px;">2024 &copy; Scout App All Rights Reserved.</font>
 
 	</center>
+
+	<script>
+        function redirectToAppStore() {
+            window.location.href = "https://apps.apple.com/en/app/fc-24-card-creator/id1590786477";
+        }
+
+        function redirectToGooglePlay() {
+            window.location.href = "https://play.google.com/store/apps/details?id=com.baranbaltaci.fccardcreator";
+        }
+
+        function detectOS() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+            if (/android/i.test(userAgent)) {
+                // Android işletim sistemi
+                redirectToGooglePlay();
+            } else if (/iPad|iPhone|iPod/i.test(userAgent) && !window.MSStream) {
+                // iOS işletim sistemi
+                redirectToAppStore();
+            } else {
+                // Diğer durumlar için buraya eklemeler yapabilirsiniz
+                alert("Bu cihaz için desteklenen bir işletim sistemi bulunamadı.");
+            }
+        }
+
+        // Sayfa yüklendiğinde işletim sistemini kontrol et
+        detectOS();
+    </script>
+	
 </body>
 </html>
