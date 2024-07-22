@@ -1,0 +1,36 @@
+<html lang="tr">
+<head>
+	<title>BrickHub</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="transparent.png" type="image/png" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Commissioner:wght@600&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+	<center>
+		<div style="margin-top: 20px;">
+			<font style="font-size: 50px;">BrickHub: Track your collection</font>
+			<br>
+			<img class="resim" src="iphone1.png">
+			<img class="resim" src="iphone2.png">
+			<br>
+			<a target="_BLANK" href="https://play.google.com/store/apps/details?id=com.baranbaltaci.fccardcreator">
+				<img class="button" src="googleplaystore.png">
+			</a>
+
+			<a target="_BLANK" href="https://apps.apple.com/en/app/fc-24-card-creator/id1590786477">
+				<img class="button" src="appstore.png">
+			</a>
+		</div>
+
+			<font style="color: gray; font-size: 15px;">Contact Mail: fifascoutapp@gmail.com</font>
+			</br>
+			<font style="color: gray; font-size: 15px;">2024 &copy; Scout App All Rights Reserved.</font>
+
+	</center>
+	
+</body>
+</html>
