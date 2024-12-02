@@ -1,12 +1,5 @@
 [
     {
-        "card_name": "Thunderstruck a",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Thunderstruck.png",
-        "card_text_color": "#dcd0a0",
-        "card_playstyle_color": "#000000",
-        "isIcon": false
-    },
-    {
         "card_name": "Thunderstruck",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Thunderstruck.png",
         "card_text_color": "#dcd0a0",
