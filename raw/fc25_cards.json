@@ -197,7 +197,7 @@
     },
     {
         "card_name": "Hero Prime",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/PrimeHero25.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/HeroPrime25.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#711942",
         "isIcon": false
@@ -344,49 +344,49 @@
     },
     {
         "card_name": "EVO I",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20I.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%201.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#0b7e63",
         "isIcon": false
     },
     {
         "card_name": "EVO II",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20II.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%202.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#0b7e63",
         "isIcon": false
     },
     {
         "card_name": "EVO III",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20III.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%203.png",
         "card_text_color": "#f8d47f",
         "card_playstyle_color": "#06493e",
         "isIcon": false
     },
     {
         "card_name": "EVO Purple II",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Purple%20II.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Purple%202.png",
         "card_text_color": "#f8d47f",
         "card_playstyle_color": "#06493e",
         "isIcon": false
     },
     {
         "card_name": "EVO Purple III",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Purple%20III.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Purple%203.png",
         "card_text_color": "#f8d47f",
         "card_playstyle_color": "#06493e",
         "isIcon": false
     },
     {
         "card_name": "EVO Red II",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Red%20II.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Red%202.png",
         "card_text_color": "#f8d47f",
         "card_playstyle_color": "#06493e",
         "isIcon": false
     },
     {
         "card_name": "EVO Red III",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Red%20III.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Red%203.png",
         "card_text_color": "#f8d47f",
         "card_playstyle_color": "#06493e",
         "isIcon": false
