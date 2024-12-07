@@ -1,0 +1,457 @@
+[
+    {
+        "card_name": "Ultimate Succession",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ultimate%20Succession.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#906835",
+        "isIcon": false
+    },
+    {
+        "card_name": "Ultimate Succession Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ultimate%20Succession%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "Ultimate Succession Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ultimate%20Succession%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#8B7645",
+        "isIcon": false
+    },
+    {
+        "card_name": "Award Winner",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Award%20Winner.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#3ED2C6",
+        "isIcon": false
+    },
+    {
+        "card_name": "Thunderstruck",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Thunderstruck.png",
+        "card_text_color": "#dcd0a0",
+        "card_playstyle_color": "#000000",
+        "isIcon": false
+    },
+    {
+        "card_name": "Thunderstruck Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Thunderstruck%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "Rivals Mastery",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Rivals%20Mastery.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#301E97",
+        "isIcon": false
+    },
+    {
+        "card_name": "Champs Mastery",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Champs%20Mastery.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#7E1235",
+        "isIcon": false
+    },
+    {
+        "card_name": "Winter Champions",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Champions.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#9D020E",
+        "isIcon": false
+    },
+    {
+        "card_name": "Squad Battle Mastery",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Squad%20Battle%20Mastery.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#322A0Ck",
+        "isIcon": false
+    },
+    {
+        "card_name": "Mode Mastery",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Mode%20Mastery.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#038335",
+        "isIcon": false
+    },
+    {
+        "card_name": "FC Pro",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FC%20Pro.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#49088e",
+        "isIcon": false
+    },
+    {
+        "card_name": "On This Day SBC",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/SBC%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "FUT Centurions",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Centurions.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#3b3435",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Centurions Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Centurions%20EVO.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#3b3435",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Centurions Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Centurions%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "Track Stars Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Track%20Stars%20Heroes.png",
+        "card_text_color": "#fcfcf7",
+        "card_playstyle_color": "#312315",
+        "isIcon": false
+    },
+    {
+        "card_name": "Track Stars",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Track%20Stars.png",
+        "card_text_color": "#fcfcf7",
+        "card_playstyle_color": "#312315",
+        "isIcon": false
+    },
+    {
+        "card_name": "Ballon Dor",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ballon%20Dor.png",
+        "card_text_color": "#f9f4e4",
+        "card_playstyle_color": "#312315",
+        "isIcon": false
+    },
+    {
+        "card_name": "Trailblazers",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Trailblazers.png",
+        "card_text_color": "#fff6e4",
+        "card_playstyle_color": "#3d1951",
+        "isIcon": false
+    },
+    {
+        "card_name": "Total Rush",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Total%20Rush.png",
+        "card_text_color": "#e1fff6",
+        "card_playstyle_color": "#000000",
+        "isIcon": false
+    },
+    {
+        "card_name": "CL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/CL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#000000",
+        "isIcon": false
+    },
+    {
+        "card_name": "CL RTTF",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/CL%20RTTF.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#000000",
+        "isIcon": false
+    },
+    {
+        "card_name": "EUL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/EUL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#000000",
+        "isIcon": false
+    },
+    {
+        "card_name": "ECL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/ECL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#000000",
+        "isIcon": false
+    },
+    {
+        "card_name": "Signature Signings",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Signature%20Signings.png",
+        "card_text_color": "#f7e4a5",
+        "card_playstyle_color": "#170a3b",
+        "isIcon": false
+    },
+    {
+        "card_name": "Winter Wildcard",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard.png",
+        "card_text_color": "#fdf7e3",
+        "card_playstyle_color": "#005047",
+        "isIcon": false
+    },
+    {
+        "card_name": "Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#ff3487",
+        "isIcon": false
+    },
+    {
+        "card_name": "Hero Prime",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/HeroPrime25.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#711942",
+        "isIcon": false
+    },
+    {
+        "card_name": "Hero Prime Plus",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Hero%20Prime%20Plus.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#711942",
+        "isIcon": false
+    },
+    {
+        "card_name": "Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "Serie A POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Serie%20A.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#172eff",
+        "isIcon": false
+    },
+    {
+        "card_name": "Ligue 1 POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ligue%201.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#262626",
+        "isIcon": false
+    },
+    {
+        "card_name": "Bundesliga POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Bundesliga.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#93020e",
+        "isIcon": false
+    },
+    {
+        "card_name": "Eredevisie POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Eredevisie.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#2505a5",
+        "isIcon": false
+    },
+    {
+        "card_name": "La Liga POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/La%20Liga.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#00001b",
+        "isIcon": false
+    },
+    {
+        "card_name": "Premier League POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Premier%20League.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#0be6ff",
+        "isIcon": false
+    },
+    {
+        "card_name": "Man of the Match",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/MOTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#e4820b",
+        "isIcon": false
+    },
+    {
+        "card_name": "World Tour",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/World%20Tour.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#3c3038",
+        "isIcon": false
+    },
+    {
+        "card_name": "Showdown+",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Showdown+.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#212121",
+        "isIcon": false
+    },
+    {
+        "card_name": "Showdown",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Showdown.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#212121",
+        "isIcon": false
+    },
+    {
+        "card_name": "Flashback",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Flashback.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#14123a",
+        "isIcon": false
+    },
+    {
+        "card_name": "Dynamic Duos",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Dynamic%20Duos.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#1f1e1e",
+        "isIcon": false
+    },
+    {
+        "card_name": "EOAE",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/EOAE.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#31226e",
+        "isIcon": false
+    },
+    {
+        "card_name": "TOTW Red+",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTW%20Red+.png",
+        "card_text_color": "#f6db7b",
+        "card_playstyle_color": "#260c0b",
+        "isIcon": false
+    },
+    {
+        "card_name": "TOTW Red",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTW%20Red.png",
+        "card_text_color": "#f6db7b",
+        "card_playstyle_color": "#260c0b",
+        "isIcon": false
+    },
+    {
+        "card_name": "TOTW+ Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTW+%20EVO.png",
+        "card_text_color": "#f6db7b",
+        "card_playstyle_color": "#0a0909",
+        "isIcon": false
+    },
+    {
+        "card_name": "TOTW",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTW.png",
+        "card_text_color": "#f6db7b",
+        "card_playstyle_color": "#0a0909",
+        "isIcon": false
+    },
+    {
+        "card_name": "EVO",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#0b7e63",
+        "isIcon": false
+    },
+    {
+        "card_name": "EVO I",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%201.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#0b7e63",
+        "isIcon": false
+    },
+    {
+        "card_name": "EVO II",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%202.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#0b7e63",
+        "isIcon": false
+    },
+    {
+        "card_name": "EVO III",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%203.png",
+        "card_text_color": "#f8d47f",
+        "card_playstyle_color": "#06493e",
+        "isIcon": false
+    },
+    {
+        "card_name": "EVO Purple II",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Purple%202.png",
+        "card_text_color": "#f8d47f",
+        "card_playstyle_color": "#06493e",
+        "isIcon": false
+    },
+    {
+        "card_name": "EVO Purple III",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Purple%203.png",
+        "card_text_color": "#f8d47f",
+        "card_playstyle_color": "#06493e",
+        "isIcon": false
+    },
+    {
+        "card_name": "EVO Red II",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Red%202.png",
+        "card_text_color": "#f8d47f",
+        "card_playstyle_color": "#06493e",
+        "isIcon": false
+    },
+    {
+        "card_name": "EVO Red III",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Evo%20Red%203.png",
+        "card_text_color": "#f8d47f",
+        "card_playstyle_color": "#06493e",
+        "isIcon": false
+    },
+    {
+        "card_name": "Pro Player",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Pro%20Player.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#35c2bc",
+        "isIcon": false
+    },
+    {
+        "card_name": "Foundations",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Foundations.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#1f1e1e",
+        "isIcon": false
+    },
+    {
+        "card_name": "Moments",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Moments.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#222d32",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Gold",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Rare%20Gold.png",
+        "card_text_color": "#40351d",
+        "card_playstyle_color": "#e0c072",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Silver",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Rare%20Silver.png",
+        "card_text_color": "#2c2c2c",
+        "card_playstyle_color": "#bcbec1",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Bronze",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Rare%20Bronze.png",
+        "card_text_color": "#3e281c",
+        "card_playstyle_color": "#fdad8a",
+        "isIcon": false
+    },
+    {
+        "card_name": "Common Gold",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Common%20Gold.png",
+        "card_text_color": "#40351d",
+        "card_playstyle_color": "#e0c072",
+        "isIcon": false
+    },
+    {
+        "card_name": "Common Silver",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Common%20Silver.png",
+        "card_text_color": "#2c2c2c",
+        "card_playstyle_color": "#bcbec1",
+        "isIcon": false
+    },
+    {
+        "card_name": "Common Bronze",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Common%20Bronze.png",
+        "card_text_color": "#3e281c",
+        "card_playstyle_color": "#fdad8a",
+        "isIcon": false
+    }
+]
