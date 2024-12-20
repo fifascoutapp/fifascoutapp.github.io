@@ -1,5 +1,19 @@
 [
     {
+        "card_name": "Winter Wildcard",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard.png",
+        "card_text_color": "#fdf7e3",
+        "card_playstyle_color": "#005047",
+        "isIcon": false
+    },
+    {
+        "card_name": "Ultimate Cover Stars",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ultimate%20Cover%20Stars.png",
+        "card_text_color": "#f8c796",
+        "card_playstyle_color": "#401a15",
+        "isIcon": false
+    },
+    {
         "card_name": "Ultimate Succession",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ultimate%20Succession.png",
         "card_text_color": "#ffffff",
@@ -21,8 +35,8 @@
         "isIcon": false
     },
     {
-        "card_name": "Award Winner",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Award%20Winner.png",
+        "card_name": "Globetrotters",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Globetrotters.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#3ED2C6",
         "isIcon": false
@@ -179,13 +193,6 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Signature%20Signings.png",
         "card_text_color": "#f7e4a5",
         "card_playstyle_color": "#170a3b",
-        "isIcon": false
-    },
-    {
-        "card_name": "Winter Wildcard",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard.png",
-        "card_text_color": "#fdf7e3",
-        "card_playstyle_color": "#005047",
         "isIcon": false
     },
     {
