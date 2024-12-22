@@ -1,7 +1,28 @@
 [
     {
+        "card_name": "Winter Wildcard Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": false
+    },
+    {
         "card_name": "Winter Wildcard",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard.png",
+        "card_text_color": "#fdf7e3",
+        "card_playstyle_color": "#005047",
+        "isIcon": false
+    },
+    {
+        "card_name": "Winter Wildcard Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard%20Hero.png",
+        "card_text_color": "#fdf7e3",
+        "card_playstyle_color": "#005047",
+        "isIcon": false
+    },
+    {
+        "card_name": "Winter Wildcard Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard%20Evo.png",
         "card_text_color": "#fdf7e3",
         "card_playstyle_color": "#005047",
         "isIcon": false
