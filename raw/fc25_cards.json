@@ -1,5 +1,12 @@
 [
     {
+        "card_name": "Numero FUT",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Numero%20FUT.png",
+        "card_text_color": "#fcfcf7",
+        "card_playstyle_color": "#00001d",
+        "isIcon": false
+    },
+    {
         "card_name": "Winter Wildcard Icon",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard%20Icon.png",
         "card_text_color": "#594d2c",
