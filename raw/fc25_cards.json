@@ -7,6 +7,27 @@
         "isIcon": false
     },
     {
+        "card_name": "TOTY Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "TOTY Eras",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY%20Eras.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "TOTY Honourable",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY%20Honourable.png",
+        "card_text_color": "#e8f0ff",
+        "card_playstyle_color": "#161a4f",
+        "isIcon": false
+    },
+    {
         "card_name": "TOTY Evo",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY%20EVO.png",
         "card_text_color": "#e8f0ff",
@@ -25,7 +46,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard%20Icon.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#e3e5e5",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Winter Wildcard",
