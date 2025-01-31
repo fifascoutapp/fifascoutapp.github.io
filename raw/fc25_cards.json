@@ -1,5 +1,26 @@
 [
     {
+        "card_name": "Future Stars",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Future%20Stars.png",
+        "card_text_color": "#d5fafe",
+        "card_playstyle_color": "#1f2586",
+        "isIcon": false
+    },
+    {
+        "card_name": "Future Stars Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Future%20Stars%20Evo.png",
+        "card_text_color": "#d5fafe",
+        "card_playstyle_color": "#1f2586",
+        "isIcon": false
+    },
+    {
+        "card_name": "Future Stars Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Future%20Stars%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": false
+    },
+    {
         "card_name": "TOTY",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY.png",
         "card_text_color": "#f5db9b",
