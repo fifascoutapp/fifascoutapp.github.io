@@ -1,5 +1,40 @@
 [
     {
+        "card_name": "Grassroot Greats",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#1f4930",
+        "isIcon": false
+    },
+    {
+        "card_name": "Grassroot Greats Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats%20Evo.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#1f4930",
+        "isIcon": false
+    },
+    {
+        "card_name": "Grassroot Greats Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#183534",
+        "isIcon": false
+    },
+    {
+        "card_name": "Grassroot Greats Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats%20Icon.png",
+        "card_text_color": "#d5fafe",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "FC Pro Champion Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FC%20Pro%20Champion%20Icon.png",
+        "card_text_color": "#d5fafe",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
         "card_name": "Future Stars",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Future%20Stars.png",
         "card_text_color": "#d5fafe",
