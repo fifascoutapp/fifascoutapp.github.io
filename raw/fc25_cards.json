@@ -1,5 +1,19 @@
 [
     {
+        "card_name": "Fantasy FC",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Fantasy%20FC.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#B93463",
+        "isIcon": false
+    },
+    {
+        "card_name": "Fantasy FC Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Fantasy%20FC%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#B93463",
+        "isIcon": false
+    },
+    {
         "card_name": "Grassroot Greats",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats.png",
         "card_text_color": "#ffffff",
