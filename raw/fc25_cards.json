@@ -1,5 +1,54 @@
 [
     {
+        "card_name": "FUT Birthday",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#E755E0",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Birthday Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#E755E0",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Birthday Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Birthday Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday%20Evo.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#E755E0",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT 20 Birthday",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%2020%20Birthday.png",
+        "card_text_color": "#4BFEE0",
+        "card_playstyle_color": "#EE475C",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT 19 Birthday",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%2019%20Birthday.png",
+        "card_text_color": "#18F5C2",
+        "card_playstyle_color": "#D40B62",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT 18 Birthday",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%2018%20Birthday.png",
+        "card_text_color": "#0B375F",
+        "card_playstyle_color": "#FFFFFF",
+        "isIcon": false
+    },
+    {
         "card_name": "Fantasy FC",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Fantasy%20FC.png",
         "card_text_color": "#ffffff",
