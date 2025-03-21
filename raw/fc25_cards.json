@@ -1,5 +1,54 @@
 [
     {
+        "card_name": "Dreamchasers Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Dreamchasers%20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": false
+    },
+    {
+        "card_name": "Dreamchasers Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Dreamchasers%20Hero.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#2E0DC6",
+        "isIcon": false
+    },
+    {
+        "card_name": "UCL Dreamchasers",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/UCL%20Dreamchasers.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#02249C",
+        "isIcon": false
+    },
+    {
+        "card_name": "UEL Dreamchasers",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/UEL%20Dreamchasers.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#BE4807",
+        "isIcon": false
+    },
+    {
+        "card_name": "UECL Dreamchasers",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/UECL%20Dreamchasers.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#057102",
+        "isIcon": false
+    },
+    {
+        "card_name": "FC Pro Leagues Live",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FC%20Pro%20Leagues%20Live.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#192544",
+        "isIcon": false
+    },
+    {
+        "card_name": "Streets Wont Forget",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Streets%20Wont%20Forget.png",
+        "card_text_color": "#4D331F",
+        "card_playstyle_color": "#FEE08E",
+        "isIcon": false
+    },
+    {
         "card_name": "FUT Birthday",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday.png",
         "card_text_color": "#ffffff",
