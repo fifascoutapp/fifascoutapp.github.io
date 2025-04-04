@@ -1,14 +1,14 @@
 [
     
 {
-        "card_name": "FUT Immortal Hero",
+        "card_name": "FUT Immortals Hero",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Immortal%20Hero.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#481B11",
         "isIcon": false
     },
     {
-        "card_name": "FUT Immortal Icon",
+        "card_name": "FUT Immortals Icon",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Immortal%20Icon.png",
         "card_text_color": "#594D2C",
         "card_playstyle_color": "#DBDBDB",
