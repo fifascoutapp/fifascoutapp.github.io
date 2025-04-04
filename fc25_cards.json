@@ -1,4 +1,264 @@
 [
+    
+{
+        "card_name": "FUT Immortal Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Immortal%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#481B11",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Immortal Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Immortal%20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": false
+    },
+{
+        "card_name": "Dreamchasers Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Dreamchasers%20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": false
+    },
+    {
+        "card_name": "Dreamchasers Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Dreamchasers%20Hero.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#2E0DC6",
+        "isIcon": false
+    },
+    {
+        "card_name": "UCL Dreamchasers",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/UCL%20Dreamchasers.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#02249C",
+        "isIcon": false
+    },
+    {
+        "card_name": "UEL Dreamchasers",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/UEL%20Dreamchasers.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#BE4807",
+        "isIcon": false
+    },
+    {
+        "card_name": "UECL Dreamchasers",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/UECL%20Dreamchasers.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#057102",
+        "isIcon": false
+    },
+    {
+        "card_name": "FC Pro Leagues Live",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FC%20Pro%20Leagues%20Live.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#192544",
+        "isIcon": false
+    },
+    {
+        "card_name": "Streets Wont Forget",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Streets%20Wont%20Forget.png",
+        "card_text_color": "#4D331F",
+        "card_playstyle_color": "#FEE08E",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Birthday",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#E755E0",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Birthday Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#E755E0",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Birthday Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Birthday Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday%20Evo.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#E755E0",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT 20 Birthday",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%2020%20Birthday.png",
+        "card_text_color": "#4BFEE0",
+        "card_playstyle_color": "#EE475C",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT 19 Birthday",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%2019%20Birthday.png",
+        "card_text_color": "#18F5C2",
+        "card_playstyle_color": "#D40B62",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT 18 Birthday",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%2018%20Birthday.png",
+        "card_text_color": "#0B375F",
+        "card_playstyle_color": "#FFFFFF",
+        "isIcon": false
+    },
+    {
+        "card_name": "Fantasy FC",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Fantasy%20FC.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#B93463",
+        "isIcon": false
+    },
+    {
+        "card_name": "Fantasy FC Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Fantasy%20FC%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#B93463",
+        "isIcon": false
+    },
+    {
+        "card_name": "Grassroot Greats",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#1f4930",
+        "isIcon": false
+    },
+    {
+        "card_name": "Grassroot Greats Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats%20Evo.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#1f4930",
+        "isIcon": false
+    },
+    {
+        "card_name": "Grassroot Greats Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#183534",
+        "isIcon": false
+    },
+    {
+        "card_name": "Grassroot Greats Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Grassroot%20Greats%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "FC Pro Champion Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FC%20Pro%20Champion%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "Future Stars",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Future%20Stars.png",
+        "card_text_color": "#d5fafe",
+        "card_playstyle_color": "#1f2586",
+        "isIcon": false
+    },
+    {
+        "card_name": "Future Stars Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Future%20Stars%20Evo.png",
+        "card_text_color": "#d5fafe",
+        "card_playstyle_color": "#1f2586",
+        "isIcon": false
+    },
+    {
+        "card_name": "Future Stars Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Future%20Stars%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": false
+    },
+    {
+        "card_name": "TOTY",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY.png",
+        "card_text_color": "#f5db9b",
+        "card_playstyle_color": "#161a4f",
+        "isIcon": false
+    },
+    {
+        "card_name": "TOTY Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "TOTY Eras",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY%20Eras.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "TOTY Honourable",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY%20Honourable.png",
+        "card_text_color": "#e8f0ff",
+        "card_playstyle_color": "#161a4f",
+        "isIcon": false
+    },
+    {
+        "card_name": "TOTY Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTY%20EVO.png",
+        "card_text_color": "#e8f0ff",
+        "card_playstyle_color": "#161a4f",
+        "isIcon": false
+    },
+    {
+        "card_name": "Numero FUT",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Numero%20FUT.png",
+        "card_text_color": "#fcfcf7",
+        "card_playstyle_color": "#00001d",
+        "isIcon": false
+    },
+    {
+        "card_name": "Winter Wildcard Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "Winter Wildcard",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard.png",
+        "card_text_color": "#fdf7e3",
+        "card_playstyle_color": "#005047",
+        "isIcon": false
+    },
+    {
+        "card_name": "Winter Wildcard Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard%20Hero.png",
+        "card_text_color": "#fdf7e3",
+        "card_playstyle_color": "#005047",
+        "isIcon": false
+    },
+    {
+        "card_name": "Winter Wildcard Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard%20Evo.png",
+        "card_text_color": "#fdf7e3",
+        "card_playstyle_color": "#005047",
+        "isIcon": false
+    },
+    {
+        "card_name": "Ultimate Cover Stars",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ultimate%20Cover%20Stars.png",
+        "card_text_color": "#f8c796",
+        "card_playstyle_color": "#401a15",
+        "isIcon": false
+    },
     {
         "card_name": "Ultimate Succession",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Ultimate%20Succession.png",
@@ -21,8 +281,8 @@
         "isIcon": false
     },
     {
-        "card_name": "Award Winner",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Award%20Winner.png",
+        "card_name": "Globetrotters",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Globetrotters.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#3ED2C6",
         "isIcon": false
@@ -179,13 +439,6 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Signature%20Signings.png",
         "card_text_color": "#f7e4a5",
         "card_playstyle_color": "#170a3b",
-        "isIcon": false
-    },
-    {
-        "card_name": "Winter Wildcard",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Winter%20Wildcard.png",
-        "card_text_color": "#fdf7e3",
-        "card_playstyle_color": "#005047",
         "isIcon": false
     },
     {
