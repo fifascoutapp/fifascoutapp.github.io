@@ -18,14 +18,14 @@
         "card_name": "TOTS Highlights",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTS%20Highlights.png",
         "card_text_color": "#F5DB9B",
-        "card_playstyle_color": "#0A669E",
+        "card_playstyle_color": "#320F41",
         "isIcon": false
     },
     {
         "card_name": "TOTS Champions",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTS%20Champions.png",
         "card_text_color": "#F5DB9B",
-        "card_playstyle_color": "#0A669E",
+        "card_playstyle_color": "#980000",
         "isIcon": false
     },
     {
