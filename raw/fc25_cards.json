@@ -1,6 +1,27 @@
 [
     
     {
+        "card_name": "CL RTTF",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/CL%20RTTF.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#02249C",
+        "isIcon": false
+    },
+    {
+        "card_name": "UEL RTTF",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/UEL%20RTTF.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#381D0A",
+        "isIcon": false
+    },
+    {
+        "card_name": "UECL RTTF",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/UECL%20RTTF.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#002C0F",
+        "isIcon": false
+    },
+    {
         "card_name": "TOTS",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTS.png",
         "card_text_color": "#F5DB9B",
@@ -451,13 +472,6 @@
     {
         "card_name": "CL RTTK",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/CL%20RTTK.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#000000",
-        "isIcon": false
-    },
-    {
-        "card_name": "CL RTTF",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/CL%20RTTF.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#000000",
         "isIcon": false
