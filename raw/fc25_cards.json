@@ -7,6 +7,20 @@
         "isIcon": false
     },
     {
+        "card_name": "Shapeshifters Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Shapeshifters%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#21994A",
+        "isIcon": false
+    },
+    {
+        "card_name": "Shapeshifters Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Shapeshifters%20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": false
+    },
+    {
         "card_name": "Shapeshifters EVO",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Shapeshifters%20EVO.png",
         "card_text_color": "#ffffff",
