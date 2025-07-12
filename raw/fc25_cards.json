@@ -1,4 +1,40 @@
 [
+    
+    {
+        "card_name": "Futties",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Futties.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#D4237E",
+        "isIcon": false
+    },
+    {
+        "card_name": "Futties Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Futties%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#D4237E",
+        "isIcon": false
+    },
+    {
+        "card_name": "Futties Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Futties20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": false
+    },
+    {
+        "card_name": "Greats of the Game Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Greats%20of%20the%20Game%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#82133B",
+        "isIcon": false
+    },
+    {
+        "card_name": "Greats of the Game Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Greats%20of%20the%20Game%20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": false
+    },
     {
         "card_name": "Futties EVO",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Futties%20EVO.png",
@@ -6,7 +42,7 @@
         "card_playstyle_color": "#D4237E",
         "isIcon": false
     },
-{
+    {
         "card_name": "Shapeshifters",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Shapeshifters.png",
         "card_text_color": "#ffffff",
