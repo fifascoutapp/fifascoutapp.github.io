@@ -1,14 +1,14 @@
 [
         {
         "card_name": "Icon",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Icon.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Icon.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#e3e5e5",
         "isIcon": true
     },
         {
         "card_name": "TOTW",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/TOTW.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTW.png",
         "card_text_color": "#f6db7b",
         "card_playstyle_color": "#0a0909",
         "isIcon": false
