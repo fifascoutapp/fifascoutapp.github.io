@@ -19,7 +19,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Futties%20Icon.png",
         "card_text_color": "#594D2C",
         "card_playstyle_color": "#DBDBDB",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Greats of the Game Hero",
@@ -33,7 +33,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Greats%20of%20the%20Game%20Icon.png",
         "card_text_color": "#594D2C",
         "card_playstyle_color": "#DBDBDB",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Futties EVO",
@@ -61,7 +61,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Shapeshifters%20Icon.png",
         "card_text_color": "#594D2C",
         "card_playstyle_color": "#DBDBDB",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Shapeshifters EVO",
@@ -75,7 +75,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FC%20Pro%20Icon.png",
         "card_text_color": "#594D2C",
         "card_playstyle_color": "#DBDBDB",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "UCL RTTF",
@@ -152,14 +152,14 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Immortals%20Icon.png",
         "card_text_color": "#594D2C",
         "card_playstyle_color": "#DBDBDB",
-        "isIcon": false
+        "isIcon": true
     },
 {
         "card_name": "Dreamchasers Icon",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Dreamchasers%20Icon.png",
         "card_text_color": "#594D2C",
         "card_playstyle_color": "#DBDBDB",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Dreamchasers Hero",
@@ -222,7 +222,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%20Birthday%20Icon.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#e3e5e5",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "FUT Birthday Evo",
@@ -320,7 +320,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Future%20Stars%20Icon.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#e3e5e5",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "TOTY",
