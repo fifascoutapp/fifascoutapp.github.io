@@ -1,58 +1,100 @@
 [
-        {
+    {
+        "card_name": "Prime Heroes Plus",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Prime%20Heroes%20Plus.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#cba87b",
+        "isIcon": true
+    },
+    {
+        "card_name": "Prime Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Prime%20Heroes.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#cba87b",
+        "isIcon": true
+    },
+    {
+        "card_name": "FUT Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Heroes.png",
+        "card_text_color": "#fef8c1",
+        "card_playstyle_color": "#1d224b",
+        "isIcon": true
+    },
+    {
+        "card_name": "FUT Showdown",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Showdown.png",
+        "card_text_color": "#f2f2f2",
+        "card_playstyle_color": "#333433",
+        "isIcon": true
+    },
+    {
+        "card_name": "FUT Showdown Boost",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Showdown%20Boost.png",
+        "card_text_color": "#c9f44c",
+        "card_playstyle_color": "#333433",
+        "isIcon": true
+    },
+    {
+        "card_name": "Flashback SBC",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Flashback%20SBC.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#2d187f",
+        "isIcon": true
+    },
+    {
         "card_name": "Icon",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Icon.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#e3e5e5",
         "isIcon": true
     },
-        {
+    {
         "card_name": "TOTW",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTW.png",
         "card_text_color": "#f6db7b",
         "card_playstyle_color": "#0a0909",
         "isIcon": false
     },
-        {
-            "card_name": "Rare Gold",
-            "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Gold.png",
-            "card_text_color": "#40351d",
-            "card_playstyle_color": "#e0c072",
-            "isIcon": false
-        },
-        {
-            "card_name": "Rare Silver",
-            "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Silver.png",
-            "card_text_color": "#2c2c2c",
-            "card_playstyle_color": "#bcbec1",
-            "isIcon": false
-        },
-        {
-            "card_name": "Rare Bronze",
-            "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Bronze.png",
-            "card_text_color": "#3e281c",
-            "card_playstyle_color": "#fdad8a",
-            "isIcon": false
-        },
-        {
-            "card_name": "Common Gold",
-            "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Gold.png",
-            "card_text_color": "#40351d",
-            "card_playstyle_color": "#e0c072",
-            "isIcon": false
-        },
-        {
-            "card_name": "Common Silver",
-            "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Silver.png",
-            "card_text_color": "#2c2c2c",
-            "card_playstyle_color": "#bcbec1",
-            "isIcon": false
-        },
-        {
-            "card_name": "Common Bronze",
-            "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Bronze.png",
-            "card_text_color": "#3e281c",
-            "card_playstyle_color": "#fdad8a",
-            "isIcon": false
-        }
+    {
+        "card_name": "Rare Gold",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Gold.png",
+        "card_text_color": "#40351d",
+        "card_playstyle_color": "#e0c072",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Silver",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Silver.png",
+        "card_text_color": "#2c2c2c",
+        "card_playstyle_color": "#bcbec1",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Bronze",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Bronze.png",
+        "card_text_color": "#3e281c",
+        "card_playstyle_color": "#fdad8a",
+        "isIcon": false
+    },
+    {
+        "card_name": "Common Gold",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Gold.png",
+        "card_text_color": "#40351d",
+        "card_playstyle_color": "#e0c072",
+        "isIcon": false
+    },
+    {
+        "card_name": "Common Silver",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Silver.png",
+        "card_text_color": "#2c2c2c",
+        "card_playstyle_color": "#bcbec1",
+        "isIcon": false
+    },
+    {
+        "card_name": "Common Bronze",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Bronze.png",
+        "card_text_color": "#3e281c",
+        "card_playstyle_color": "#fdad8a",
+        "isIcon": false
+    }
 ]
