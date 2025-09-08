@@ -9,7 +9,7 @@
     {
         "card_name": "World Tour Silver",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/World%20Tour%20Silver.png",
-        "card_text_color": "#2c2c2c",
+        "card_text_color": "#ffffff",
         "card_playstyle_color": "#ff6725",
         "isIcon": false
     },
