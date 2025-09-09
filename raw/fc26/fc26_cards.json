@@ -16,7 +16,7 @@
     {
         "card_name": "Rare Gold",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Gold.png",
-        "card_text_color": "#ffffff",
+        "card_text_color": "#40351d",
         "card_playstyle_color": "#e0c072",
         "isIcon": false
     },
