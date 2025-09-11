@@ -17,7 +17,7 @@
         "card_name": "Rare Gold",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Gold.png",
         "card_text_color": "#40351d",
-        "card_playstyle_color": "#f2e180",
+        "card_playstyle_color": "#f7d35b",
         "isIcon": false
     },
     {
@@ -38,7 +38,7 @@
         "card_name": "Common Gold",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Gold.png",
         "card_text_color": "#40351d",
-        "card_playstyle_color": "#f2e180",
+        "card_playstyle_color": "#f7d35b",
         "isIcon": false
     },
     {
