@@ -1,4 +1,33 @@
 [
+    
+    {
+        "card_name": "Cornerstone",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Cornerstone.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#ce6b1d",
+        "isIcon": false
+    },
+    {
+        "card_name": "ECL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/ECL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#001f03",
+        "isIcon": false
+    },
+    {
+        "card_name": "UEL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UEL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#552303",
+        "isIcon": false
+    },
+    {
+        "card_name": "UCL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UCL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#000894",
+        "isIcon": false
+    },
     {
         "card_name": "World Tour",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/World%20Tour.png",
@@ -11,6 +40,111 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/World%20Tour%20Silver.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#ff6725",
+        "isIcon": false
+    },
+    {
+        "card_name": "Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#e3e5e5",
+        "isIcon": true
+    },
+    {
+        "card_name": "TOTW",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTW.png",
+        "card_text_color": "#f6db7b",
+        "card_playstyle_color": "#0a0909",
+        "isIcon": false
+    },
+    {
+        "card_name": "Prime Heroes Plus",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Prime%20Heroes%20Plus.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#cba87b",
+        "isIcon": false
+    },
+    {
+        "card_name": "Prime Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Prime%20Heroes.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#cba87b",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Heroes.png",
+        "card_text_color": "#fef8c1",
+        "card_playstyle_color": "#1d224b",
+        "isIcon": false
+    },
+    {
+        "card_name": "Evo Upgrade",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Evo%20Upgrade.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#259873",
+        "isIcon": false
+    },
+    {
+        "card_name": "Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Evo.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#259873",
+        "isIcon": false
+    },
+    {
+        "card_name": "Moments",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Moments.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#265c41",
+        "isIcon": false
+    },
+    {
+        "card_name": "Squad Foundations",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Squad%20Foundations.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#196e63",
+        "isIcon": false
+    },
+    {
+        "card_name": "Special Concept",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Special%20Concept.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#334467",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Concept",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Concept.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#334467",
+        "isIcon": false
+    },
+    {
+        "card_name": "Common Concept",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Concept.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#334467",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Showdown",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Showdown.png",
+        "card_text_color": "#f2f2f2",
+        "card_playstyle_color": "#333433",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Showdown Boost",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Showdown%20Boost.png",
+        "card_text_color": "#c9f44c",
+        "card_playstyle_color": "#333433",
+        "isIcon": false
+    },
+    {
+        "card_name": "Flashback SBC",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Flashback%20SBC.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#2d187f",
         "isIcon": false
     },
     {
@@ -53,62 +187,6 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Bronze.png",
         "card_text_color": "#3e281c",
         "card_playstyle_color": "#fdad8a",
-        "isIcon": false
-    },
-    {
-        "card_name": "Icon",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Icon.png",
-        "card_text_color": "#594d2c",
-        "card_playstyle_color": "#e3e5e5",
-        "isIcon": true
-    },
-    {
-        "card_name": "TOTW",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTW.png",
-        "card_text_color": "#f6db7b",
-        "card_playstyle_color": "#0a0909",
-        "isIcon": false
-    },
-    {
-        "card_name": "Prime Heroes Plus",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Prime%20Heroes%20Plus.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#cba87b",
-        "isIcon": false
-    },
-    {
-        "card_name": "Prime Heroes",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Prime%20Heroes.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#cba87b",
-        "isIcon": false
-    },
-    {
-        "card_name": "FUT Heroes",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Heroes.png",
-        "card_text_color": "#fef8c1",
-        "card_playstyle_color": "#1d224b",
-        "isIcon": false
-    },
-    {
-        "card_name": "FUT Showdown",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Showdown.png",
-        "card_text_color": "#f2f2f2",
-        "card_playstyle_color": "#333433",
-        "isIcon": false
-    },
-    {
-        "card_name": "FUT Showdown Boost",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Showdown%20Boost.png",
-        "card_text_color": "#c9f44c",
-        "card_playstyle_color": "#333433",
-        "isIcon": false
-    },
-    {
-        "card_name": "Flashback SBC",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Flashback%20SBC.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#2d187f",
         "isIcon": false
     }
 ]
