@@ -47,7 +47,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Icon.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#e3e5e5",
-        
+        "isIcon": false
     },
     {
         "card_name": "TOTW",
