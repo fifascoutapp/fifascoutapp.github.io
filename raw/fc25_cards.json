@@ -201,7 +201,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Streets%20Wont%20Forget.png",
         "card_text_color": "#4D331F",
         "card_playstyle_color": "#FEE08E",
-        "isIcon": true
+        "isIcon": false
     },
     {
         "card_name": "FUT Birthday",
@@ -250,7 +250,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/FUT%2018%20Birthday.png",
         "card_text_color": "#0B375F",
         "card_playstyle_color": "#FFFFFF",
-        "isIcon": true
+        "isIcon": false
     },
     {
         "card_name": "Fantasy FC",
@@ -803,41 +803,41 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Rare%20Gold.png",
         "card_text_color": "#40351d",
         "card_playstyle_color": "#e0c072",
-        "isIcon": true
+        "isIcon": false
     },
     {
         "card_name": "Rare Silver",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Rare%20Silver.png",
         "card_text_color": "#2c2c2c",
         "card_playstyle_color": "#bcbec1",
-        "isIcon": true
+        "isIcon": false
     },
     {
         "card_name": "Rare Bronze",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Rare%20Bronze.png",
         "card_text_color": "#3e281c",
         "card_playstyle_color": "#fdad8a",
-        "isIcon": true
+        "isIcon": false
     },
     {
         "card_name": "Common Gold",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Common%20Gold.png",
         "card_text_color": "#40351d",
         "card_playstyle_color": "#e0c072",
-        "isIcon": true
+        "isIcon": false
     },
     {
         "card_name": "Common Silver",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Common%20Silver.png",
         "card_text_color": "#2c2c2c",
         "card_playstyle_color": "#bcbec1",
-        "isIcon": true
+        "isIcon": false
     },
     {
         "card_name": "Common Bronze",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/Common%20Bronze.png",
         "card_text_color": "#3e281c",
         "card_playstyle_color": "#fdad8a",
-        "isIcon": true
+        "isIcon": false
     }
 ]
