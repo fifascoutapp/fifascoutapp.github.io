@@ -73,7 +73,7 @@
     {
         "card_name": "FUT Heroes",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Heroes.png",
-        "card_text_color": "#fef8c1",
+        "card_text_color": "#ffd74f",
         "card_playstyle_color": "#1d224b",
         "isIcon": true
     },
