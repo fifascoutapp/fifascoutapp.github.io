@@ -80,15 +80,15 @@
     {
         "card_name": "Evo Upgrade",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Evo%20Upgrade.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#259873",
+        "card_text_color": "#ecc97d",
+        "card_playstyle_color": "#011624",
         "isIcon": true
     },
     {
         "card_name": "Evo",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Evo.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#259873",
+        "card_text_color": "#b9f62f",
+        "card_playstyle_color": "#033435",
         "isIcon": true
     },
     {
