@@ -31,29 +31,29 @@
     {
         "card_name": "World Tour",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/World%20Tour.png",
-        "card_text_color": "#ffffff",
+        "card_text_color": "#fef7b9",
         "card_playstyle_color": "#1d5f07",
         "isIcon": false
     },
     {
         "card_name": "World Tour Silver",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/World%20Tour%20Silver.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#903710",
+        "card_text_color": "#fcfffa",
+        "card_playstyle_color": "#807f7f",
         "isIcon": false
     },
     {
         "card_name": "Icon",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Icon.png",
         "card_text_color": "#594d2c",
-        "card_playstyle_color": "#e3e5e5",
+        "card_playstyle_color": "#dbdbdb",
         "isIcon": false
     },
     {
         "card_name": "TOTW",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTW.png",
         "card_text_color": "#f6db7b",
-        "card_playstyle_color": "#0a0909",
+        "card_playstyle_color": "#0f0d0d",
         "isIcon": true
     },
     {
@@ -73,8 +73,8 @@
     {
         "card_name": "FUT Heroes",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Heroes.png",
-        "card_text_color": "#ffd74f",
-        "card_playstyle_color": "#1d224b",
+        "card_text_color": "#ffd44f",
+        "card_playstyle_color": "#493881",
         "isIcon": true
     },
     {
@@ -108,22 +108,22 @@
     {
         "card_name": "Special Concept",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Special%20Concept.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#334467",
+        "card_text_color": "#d2e2f6",
+        "card_playstyle_color": "#4b5e78",
         "isIcon": false
     },
     {
         "card_name": "Rare Concept",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Concept.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#334467",
+        "card_text_color": "#d2e2f6",
+        "card_playstyle_color": "#4b5e78",
         "isIcon": false
     },
     {
         "card_name": "Common Concept",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Concept.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#334467",
+        "card_text_color": "#d2e2f6",
+        "card_playstyle_color": "#4b5e78",
         "isIcon": false
     },
     {
@@ -151,7 +151,7 @@
         "card_name": "Rare Gold",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Rare%20Gold.png",
         "card_text_color": "#40351d",
-        "card_playstyle_color": "#f7d35b",
+        "card_playstyle_color": "#e1b866",
         "isIcon": false
     },
     {
@@ -172,7 +172,7 @@
         "card_name": "Common Gold",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Common%20Gold.png",
         "card_text_color": "#40351d",
-        "card_playstyle_color": "#f7d35b",
+        "card_playstyle_color": "#e1b866",
         "isIcon": false
     },
     {
