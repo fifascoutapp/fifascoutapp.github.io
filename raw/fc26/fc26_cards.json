@@ -1,10 +1,58 @@
 [
-    
     {
         "card_name": "Cornerstone",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Cornerstone.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#ce6b1d",
+        "isIcon": true
+    },
+    {
+        "card_name": "Ratings Reload",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Ratings%20Reload.png",
+        "card_text_color": "#fff1df",
+        "card_playstyle_color": "#463011",
+        "isIcon": true
+    },
+    {
+        "card_name": "FUT Champions",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Champions.png",
+        "card_text_color": "#ebd1a6",
+        "card_playstyle_color": "#490c0c",
+        "isIcon": true
+    },
+    {
+        "card_name": "Bundesliga POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Bundesliga%20POTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#93020e",
+        "isIcon": true
+    },
+    {
+        "card_name": "Premier League POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Premier%20League%20POTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#3d195b",
+        "isIcon": true
+    },
+    {
+        "card_name": "Ligue 1 POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Ligue%201%20POTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#262626",
+        "isIcon": true
+    },
+    {
+        "card_name": "Serie A POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Serie%20A%20POTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#171d88",
+        "isIcon": true
+    },
+    {
+        "card_name": "LaLiga POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/LaLiga%20A%20POTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#36394a",
         "isIcon": true
     },
     {
@@ -22,8 +70,22 @@
         "isIcon": true
     },
     {
+        "card_name": "UEL RTTF",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UEL%20RTTF.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#552303",
+        "isIcon": true
+    },
+    {
         "card_name": "UCL RTTK",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UCL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#000894",
+        "isIcon": true
+    },
+    {
+        "card_name": "UCL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UECL%20RTTK.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#000894",
         "isIcon": true
