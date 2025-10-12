@@ -50,7 +50,7 @@
     },
     {
         "card_name": "LaLiga POTM",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/LaLiga%20A%20POTM.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/LaLiga%20POTM.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#36394a",
         "isIcon": true
