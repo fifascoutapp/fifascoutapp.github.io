@@ -84,13 +84,6 @@
         "isIcon": true
     },
     {
-        "card_name": "UCL RTTK",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UECL%20RTTK.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#000894",
-        "isIcon": true
-    },
-    {
         "card_name": "World Tour",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/World%20Tour.png",
         "card_text_color": "#fef7b9",
