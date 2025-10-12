@@ -56,13 +56,6 @@
         "isIcon": true
     },
     {
-        "card_name": "ECL RTTK",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/ECL%20RTTK.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#001f03",
-        "isIcon": true
-    },
-    {
         "card_name": "UEL RTTK",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UEL%20RTTK.png",
         "card_text_color": "#ffffff",
@@ -76,9 +69,16 @@
         "card_playstyle_color": "#552303",
         "isIcon": true
     },
+     {
+        "card_name": "UECL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/ECL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#001f03",
+        "isIcon": true
+    },
     {
-        "card_name": "UCL RTTK",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UCL%20RTTK.png",
+        "card_name": "UECL RTTF",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UCL%20RTTF.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#000894",
         "isIcon": true
