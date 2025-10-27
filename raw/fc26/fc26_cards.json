@@ -1,5 +1,19 @@
 [
     {
+        "card_name": "Ultimate Scream",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Ultimate%20Scream.png",
+        "card_text_color": "#fff1d7",
+        "card_playstyle_color": "#000000",
+        "isIcon": true
+    },
+    {
+        "card_name": "Ultimate Scream Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Ultimate%20Scream%20Heroes.png",
+        "card_text_color": "#f3f9ff",
+        "card_playstyle_color": "#000000",
+        "isIcon": true
+    },
+    {
         "card_name": "Cornerstone",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Cornerstone.png",
         "card_text_color": "#ffffff",
