@@ -1,4 +1,61 @@
 [
+    
+    {
+        "card_name": "Festival of Football Captains",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Football%20Captains.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#",
+        "isIcon": true
+    },
+    {
+        "card_name": "Star Performer",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Star%20Performer.png",
+        "card_text_color": "#fff2bd",
+        "card_playstyle_color": "#974b05",
+        "isIcon": true
+    },
+    {
+        "card_name": "UEL Primetime",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UEL%20Primetime.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#552303",
+        "isIcon": true
+    },
+    {
+        "card_name": "UECL Primetime",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UECL%20Primetime.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#001f03",
+        "isIcon": true
+    },
+    {
+        "card_name": "UCL Primetime",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UCL%20Primetime.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#02249c",
+        "isIcon": true
+    },
+    {
+        "card_name": "UCL Primetime Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UCL%20Primetime%20Heroes.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#02249c",
+        "isIcon": true
+    },
+    {
+        "card_name": "End of Era",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/End%20of%20Era.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#191452",
+        "isIcon": true
+    },
+    {
+        "card_name": "Season Ladder Excellence",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Season%20Ladder%20Excellence.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#22073a",
+        "isIcon": true
+    },
     {
         "card_name": "Ultimate Scream",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Ultimate%20Scream.png",
@@ -70,10 +127,17 @@
         "isIcon": true
     },
     {
+        "card_name": "UCL RTTK",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UCL%20RTTK.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#001f03",
+        "isIcon": true
+    },
+    {
         "card_name": "UEL RTTK",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/UEL%20RTTK.png",
         "card_text_color": "#ffffff",
-        "card_playstyle_color": "#552303",
+        "card_playstyle_color": "#02249c",
         "isIcon": true
     },
     {
