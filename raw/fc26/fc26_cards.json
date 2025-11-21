@@ -1,6 +1,34 @@
 [
     
     {
+        "card_name": "Thunderstruck",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Thunderstruck.png",
+        "card_text_color": "#dfcf9a",
+        "card_playstyle_color": "#080808",
+        "isIcon": true
+    },
+    {
+        "card_name": "Thunderstruck Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Thunderstruck%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },
+    {
+        "card_name": "FC Pro",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FC%20Pro.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#9d46cf",
+        "isIcon": true
+    },
+    {
+        "card_name": "Live Event",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Live%20Event.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#0e3d36",
+        "isIcon": true
+    },
+    {
         "card_name": "Festival of Football Captains",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Football%20Captains.png",
         "card_text_color": "#ffffff",
