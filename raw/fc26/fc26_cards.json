@@ -1,6 +1,27 @@
 [
     
     {
+        "card_name": "Unbreakables",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Unbreakables.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#6E2751",
+        "isIcon": true
+    },
+    {
+        "card_name": "Unbreakables Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Unbreakables%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#6E2751",
+        "isIcon": true
+    },
+    {
+        "card_name": "Unbreakables Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Unbreakables%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },
+    {
         "card_name": "Joga Bonito",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Joga%20Bonito.png",
         "card_text_color": "#ffffff",
