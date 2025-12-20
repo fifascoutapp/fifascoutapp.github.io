@@ -1,6 +1,41 @@
 [
     
     {
+        "card_name": "Winter Wildcards",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcards.png",
+        "card_text_color": "#FFEFBE",
+        "card_playstyle_color": "#307962",
+        "isIcon": true
+    },
+    {
+        "card_name": "Winter Wildcards Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcards%20Hero.png",
+        "card_text_color": "#FFEFBE",
+        "card_playstyle_color": "#307962",
+        "isIcon": true
+    },
+    {
+        "card_name": "Winter Wildcards Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcards%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },
+    {
+        "card_name": "Winter Wildcards SBC",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcards%20SBC.png",
+        "card_text_color": "#FFEFBE",
+        "card_playstyle_color": "#821919",
+        "isIcon": true
+    },
+    {
+        "card_name": "Winter Wildcards Hero SBC",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcards%20Hero%20SBC.png",
+        "card_text_color": "#FFEFBE",
+        "card_playstyle_color": "#821919",
+        "isIcon": true
+    },
+    {
         "card_name": "Unbreakables",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Unbreakables.png",
         "card_text_color": "#ffffff",
@@ -33,13 +68,6 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Joga%20Bonito%20Hero.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#014748",
-        "isIcon": true
-    },
-    {
-        "card_name": "Winter Wildcard Icon",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcard%20Icon.png",
-        "card_text_color": "#594d2c",
-        "card_playstyle_color": "#dbdbdb",
         "isIcon": true
     },
     {
