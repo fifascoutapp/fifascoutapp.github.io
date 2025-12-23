@@ -1,5 +1,4 @@
 [
-    
     {
         "card_name": "Winter Wildcards",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcards.png",
@@ -15,7 +14,14 @@
         "isIcon": true
     },
     {
-        "card_name": "Winter Wildcards Icon",
+        "card_name": "Winter Wildcard Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcard%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },
+    {
+        "card_name": "Winter Wildcards Icon SBC",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcards%20Icon.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#dbdbdb",
