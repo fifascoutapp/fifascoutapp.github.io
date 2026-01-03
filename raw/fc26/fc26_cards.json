@@ -1,5 +1,18 @@
 [
     {
+        "card_name": "Time Warp",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Time%20Warp.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#3F115E",
+        "isIcon": true
+    },
+    {
+        "card_name": "Time Warp Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Time%20Warp%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },{
         "card_name": "Winter Wildcards",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Winter%20Wildcards.png",
         "card_text_color": "#FFEFBE",
