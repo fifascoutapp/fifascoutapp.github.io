@@ -1,4 +1,11 @@
 [
+     {
+        "card_name": "TOTY HM Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTY%20HM%20Heroes.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#031244",
+        "isIcon": true
+    },
     {
         "card_name": "Time Warp",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Time%20Warp.png",
