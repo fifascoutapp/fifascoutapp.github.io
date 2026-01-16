@@ -1,4 +1,33 @@
 [
+     
+     {
+        "card_name": "TOTY",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTY.png",
+        "card_text_color": "#F5DB9B",
+        "card_playstyle_color": "#031244",
+        "isIcon": true
+    },
+     {
+        "card_name": "TOTY Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTY%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },
+     {
+        "card_name": "TOTY Honourable Mention",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTY%20Honourable%20Mention.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#031244",
+        "isIcon": true
+    },
+     {
+        "card_name": "TOTY Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTY%20Evo.png",
+        "card_text_color": "#FFFFFF",
+        "card_playstyle_color": "#031244",
+        "isIcon": true
+    },
      {
         "card_name": "TOTY HM Heroes",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTY%20HM%20Heroes.png",
