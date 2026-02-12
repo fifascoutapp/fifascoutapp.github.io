@@ -2,7 +2,7 @@
      
      {
         "card_name": "Future Stars",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Future%20Stars.png",
         "card_text_color": "#CCFBFF",
         "card_playstyle_color": "#4E418E",
         "isIcon": true
@@ -10,7 +10,7 @@
      
      {
         "card_name": "Future Stars Evo",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Future%20Stars%20Evo.png",
         "card_text_color": "#CCFBFF",
         "card_playstyle_color": "#4E418E",
         "isIcon": true
@@ -18,14 +18,14 @@
      
      {
         "card_name": "Future Stars Icon",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Future%20Stars%20Icon.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#dbdbdb",
         "isIcon": true
     },
      {
         "card_name": "Future Stars Hero",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Future%20Stars%20Hero.png",
         "card_text_color": "#CCFBFF",
         "card_playstyle_color": "#4E418E",
         "isIcon": true
@@ -33,7 +33,7 @@
      
      {
         "card_name": "Future Stars Academy Evo",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Future%20Stars%20Academy%20Evo.png",
         "card_text_color": "#CCFBFF",
         "card_playstyle_color": "#4E418E",
         "isIcon": true
@@ -41,7 +41,7 @@
      
      {
         "card_name": "FC Pro Open Champion",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/.png",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FC%20Pro%20Open%20Champion.png",
         "card_text_color": "#594d2c",
         "card_playstyle_color": "#dbdbdb",
         "isIcon": true
