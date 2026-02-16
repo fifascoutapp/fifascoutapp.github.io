@@ -1,6 +1,27 @@
 [
      
      {
+        "card_name": "Knockout Royalty",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Knockout%20Royalty.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#934B3C",
+        "isIcon": true
+    },
+     {
+        "card_name": "Knockout Royalty Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Knockout%20Royalty%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#934B3C",
+        "isIcon": true
+    },
+     {
+        "card_name": "Knockout Royalty Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Knockout%20Royalty%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },
+     {
         "card_name": "Future Stars",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Future%20Stars.png",
         "card_text_color": "#CCFBFF",
