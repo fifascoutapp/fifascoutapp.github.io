@@ -1,6 +1,28 @@
 [
      
      {
+        "card_name": "Fantasy",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Fantasy.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#463B93",
+        "isIcon": true
+    },
+     {
+        "card_name": "Fantasy Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Fantasy%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#463B93",
+        "isIcon": true
+    },
+     {
+        "card_name": "Captains Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Captains%20Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },
+     
+     {
         "card_name": "Knockout Royalty",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Knockout%20Royalty.png",
         "card_text_color": "#ffffff",
