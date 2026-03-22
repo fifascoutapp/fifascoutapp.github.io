@@ -1,6 +1,20 @@
 [
      
      {
+        "card_name": "Answer the Call",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Answer%20the%20Call.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#463B93",
+        "isIcon": true
+    },
+     {
+        "card_name": "FC Pro Leagues",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FC%20Pro%20Leagues.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#192544",
+        "isIcon": true
+    },
+     {
         "card_name": "FUT Birthday",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FUT%20Birthday.png",
         "card_text_color": "#ffffff",
