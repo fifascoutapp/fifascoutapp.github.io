@@ -1,6 +1,27 @@
 [
      
      {
+        "card_name": "Trophy Titans Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Trophy%20Titans%20Icon.png",
+        "card_text_color": "#DFCF9A",
+        "card_playstyle_color": "#080808",
+        "isIcon": true
+    },
+     {
+        "card_name": "Trophy Titans Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Trophy%20Titans%20Hero.png",
+        "card_text_color": "#DFCF9A",
+        "card_playstyle_color": "#080808",
+        "isIcon": true
+    },
+     {
+        "card_name": "Trophy Titans Evo",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Trophy%20Titans%20Evo.png",
+        "card_text_color": "#DFCF9A",
+        "card_playstyle_color": "#080808",
+        "isIcon": true
+    },
+     {
         "card_name": "Answer the Call",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Answer%20the%20Call.png",
         "card_text_color": "#ffffff",
