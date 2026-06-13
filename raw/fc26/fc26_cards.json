@@ -25,7 +25,7 @@
      {
         "card_name": "Greats of the Game Hero",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Greats%20of%20the%20Game%20Hero.png",
-        "card_text_color": "#4096BC",
+        "card_text_color": "#ffffff",
         "card_playstyle_color": "#4096BC",
         "isIcon": true
     },
