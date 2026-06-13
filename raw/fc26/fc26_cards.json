@@ -1,5 +1,55 @@
 [
      
+     
+     {
+        "card_name": "Journey of Nations",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Journey%20of%20Nations.png",
+        "card_text_color": "#000000",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": true
+    },
+     {
+        "card_name": "Path to Glory",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Path%20to%20Glory.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#480D2E",
+        "isIcon": true
+    },
+     {
+        "card_name": "Greats of the Game Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Greats%20of%20the%20Game%20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": true
+    },
+     {
+        "card_name": "Greats of the Game Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Greats%20of%20the%20Game%20Hero.png",
+        "card_text_color": "#4096BC",
+        "card_playstyle_color": "#4096BC",
+        "isIcon": true
+    },
+     {
+        "card_name": "Festival of Football Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Festival%20of%20Football%20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": true
+    },
+     {
+        "card_name": "National Pride Red",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/National%20Pride%20Red.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#A3010C",
+        "isIcon": true
+    },
+     {
+        "card_name": "National Pride",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/National%20Pride.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#AB6FE2",
+        "isIcon": true
+    },
      {
         "card_name": "TOTS",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/TOTS.png",
