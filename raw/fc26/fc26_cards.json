@@ -2,6 +2,55 @@
      
      
      {
+        "card_name": "Summer Stars",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Summer%20Stars.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#8647E4",
+        "isIcon": true
+    },
+     {
+        "card_name": "Phenoms Red",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Phenoms%20Red.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#4F0F1A",
+        "isIcon": true
+    },
+     {
+        "card_name": "Futties",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Futties.png",
+        "card_text_color": "#FEFFDA",
+        "card_playstyle_color": "#6D1128",
+        "isIcon": true
+    },
+     {
+        "card_name": "Futties Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Futties%20Icon.png",
+        "card_text_color": "#594D2C",
+        "card_playstyle_color": "#DBDBDB",
+        "isIcon": true
+    },
+     {
+        "card_name": "Futties Hero",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Futties%20Hero.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#D4237E",
+        "isIcon": true
+    },
+     {
+        "card_name": "Glory Hunters",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Glory%20Hunters.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#7A0207",
+        "isIcon": true
+    },
+     {
+        "card_name": "Phenoms",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Phenoms.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#2E2360",
+        "isIcon": true
+    },
+     {
         "card_name": "Journey of Nations",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Journey%20of%20Nations.png",
         "card_text_color": "#000000",
