@@ -1,0 +1,23 @@
+[
+    {
+        "card_name": "Rare Gold",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Gold.png",
+        "card_text_color": "#40351d",
+        "card_playstyle_color": "#e1b866",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Silver",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Silver.png",
+        "card_text_color": "#2c2c2c",
+        "card_playstyle_color": "#bcbec1",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Bronze",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Bronze.png",
+        "card_text_color": "#3e281c",
+        "card_playstyle_color": "#fdad8a",
+        "isIcon": false
+    },
+]
