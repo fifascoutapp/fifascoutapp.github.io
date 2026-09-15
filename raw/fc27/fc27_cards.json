@@ -1,4 +1,166 @@
 [
+    
+    {
+        "card_name": "Destined for Glory",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Destined%20for%20Glory.png",
+        "card_text_color": "#fdecb5",
+        "card_playstyle_color": "#0c2e2c",
+        "isIcon": false
+    },
+    {
+        "card_name": "Ones to Watch",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Ones%20to%20Watch.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#f6e6c0",
+        "isIcon": false
+    },
+    {
+        "card_name": "Ones to Watch",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Ones%20to%20Watch.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#f6e6c0",
+        "isIcon": false
+    },
+    {
+        "card_name": "Hall of FUT Upgraded",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Hall%20of%20FUT%20Upgraded.png",
+        "card_text_color": "#f6e6c0",
+        "card_playstyle_color": "#675635",
+        "isIcon": false
+    },
+    {
+        "card_name": "Hall of FUT",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Hall%20of%20FUT.png",
+        "card_text_color": "#e8e8ee",
+        "card_playstyle_color": "#2b2b33",
+        "isIcon": false
+    },
+    {
+        "card_name": "Preorder Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Preorder%20Icon.png",
+        "card_text_color": "#54462b",
+        "card_playstyle_color": "#bdab9a",
+        "isIcon": false
+    },
+    {
+        "card_name": "Preorder Icon Upgraded",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Preorder%20Icon%20Upgraded.png",
+        "card_text_color": "#54462b",
+        "card_playstyle_color": "#bdab9a",
+        "isIcon": false
+    },
+    {
+        "card_name": "Winter Wildcard",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Winter%20Wildcard.png",
+        "card_text_color": "#FFEFBE",
+        "card_playstyle_color": "#307962",
+        "isIcon": true
+    },
+    {
+        "card_name": "End of Era",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/End%20of%20Era.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#191452",
+        "isIcon": true
+    },
+    {
+        "card_name": "Player Moments",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Player%20Moments.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#265c41",
+        "isIcon": false
+    },
+    {
+        "card_name": "Squad Foundations",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Squad%20Foundations.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#196e63",
+        "isIcon": false
+    },
+    {
+       "card_name": "Future Stars",
+       "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Future%20Stars.png",
+       "card_text_color": "#CCFBFF",
+       "card_playstyle_color": "#4E418E",
+       "isIcon": true
+   },
+    {
+        "card_name": "FUT Showdown",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/FUT%20Showdown.png",
+        "card_text_color": "#f2f2f2",
+        "card_playstyle_color": "#333433",
+        "isIcon": true
+    },
+    {
+        "card_name": "FUT Showdown Boost",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/FUT%20Showdown%20Boost.png",
+        "card_text_color": "#c9f44c",
+        "card_playstyle_color": "#333433",
+        "isIcon": true
+    },
+    {
+        "card_name": "Flashback",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Flashback.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#2d187f",
+        "isIcon": true
+    },
+    {
+        "card_name": "FUT Champions",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/FUT%20Champions.png",
+        "card_text_color": "#ebd1a6",
+        "card_playstyle_color": "#490c0c",
+        "isIcon": true
+    },
+    {
+        "card_name": "Star Performer",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Star%20Performer.png",
+        "card_text_color": "#fff2bd",
+        "card_playstyle_color": "#974b05",
+        "isIcon": true
+    },
+    {
+        "card_name": "Bundesliga POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Bundesliga%20POTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#93020e",
+        "isIcon": true
+    },
+    {
+        "card_name": "Premier League POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Premier%20League%20POTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#3d195b",
+        "isIcon": true
+    },
+    {
+        "card_name": "Serie A POTM",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Serie%20A%20POTM.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#171d88",
+        "isIcon": true
+    },
+    {
+        "card_name": "Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
+        "isIcon": false
+    },
+    {
+        "card_name": "FUT Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/FUT%20Heroes.png",
+        "card_text_color": "#ffd44f",
+        "card_playstyle_color": "#493881",
+        "isIcon": true
+    },
+    {
+        "card_name": "TOTW",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/TOTW.png",
+        "card_text_color": "#f6db7b",
+        "card_playstyle_color": "#0f0d0d",
+        "isIcon": true
+    },
     {
         "card_name": "Rare Gold",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Gold.png",
