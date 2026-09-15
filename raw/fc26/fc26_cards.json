@@ -1,6 +1,13 @@
 [
      
      {
+        "card_name": "FC 27 Rare Gold",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/FC27Rare%20Gold.png",
+        "card_text_color": "#40351d",
+        "card_playstyle_color": "#e1b866",
+        "isIcon": false
+    },
+     {
         "card_name": "Futties",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc26/Futties.png",
         "card_text_color": "#FEFFDA",
