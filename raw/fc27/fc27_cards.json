@@ -26,7 +26,7 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Destined%20for%20Glory.png",
         "card_text_color": "#fdecb5",
         "card_playstyle_color": "#0c2e2c",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Icon",
@@ -54,21 +54,21 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Ones%20to%20Watch.png",
         "card_text_color": "#fffdd8",
         "card_playstyle_color": "#043b61",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Hall of FUT Upgraded",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Hall%20of%20FUT%20Upgraded.png",
         "card_text_color": "#f6e6c0",
         "card_playstyle_color": "#675635",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Hall of FUT",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Hall%20of%20FUT.png",
         "card_text_color": "#e8e8ee",
         "card_playstyle_color": "#2b2b33",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Preorder Icon",
@@ -103,14 +103,14 @@
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Player%20Moments.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#265c41",
-        "isIcon": false
+        "isIcon": true
     },
     {
         "card_name": "Squad Foundations",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Squad%20Foundations.png",
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#196e63",
-        "isIcon": false
+        "isIcon": true
     },
     {
        "card_name": "Future Stars",
