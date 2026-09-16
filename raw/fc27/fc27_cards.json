@@ -1,6 +1,27 @@
 [
     
     {
+        "card_name": "Rare Gold",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Gold.png",
+        "card_text_color": "#40351d",
+        "card_playstyle_color": "#e1b866",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Silver",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Silver.png",
+        "card_text_color": "#2c2c2c",
+        "card_playstyle_color": "#bcbec1",
+        "isIcon": false
+    },
+    {
+        "card_name": "Rare Bronze",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Bronze.png",
+        "card_text_color": "#3e281c",
+        "card_playstyle_color": "#fdad8a",
+        "isIcon": false
+    },
+    {
         "card_name": "Destined for Glory",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Destined%20for%20Glory.png",
         "card_text_color": "#fdecb5",
@@ -8,17 +29,31 @@
         "isIcon": false
     },
     {
-        "card_name": "Ones to Watch",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Ones%20to%20Watch.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#f6e6c0",
+        "card_name": "Icon",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Icon.png",
+        "card_text_color": "#594d2c",
+        "card_playstyle_color": "#dbdbdb",
         "isIcon": false
+    },
+    {
+        "card_name": "FUT Heroes",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/FUT%20Heroes.png",
+        "card_text_color": "#ffffff",
+        "card_playstyle_color": "#493881",
+        "isIcon": true
+    },
+    {
+        "card_name": "TOTW",
+        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/TOTW.png",
+        "card_text_color": "#f6db7b",
+        "card_playstyle_color": "#0f0d0d",
+        "isIcon": true
     },
     {
         "card_name": "Ones to Watch",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Ones%20to%20Watch.png",
-        "card_text_color": "#ffffff",
-        "card_playstyle_color": "#f6e6c0",
+        "card_text_color": "#fffdd8",
+        "card_playstyle_color": "#043b61",
         "isIcon": false
     },
     {
@@ -53,7 +88,7 @@
         "card_name": "Winter Wildcard",
         "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Winter%20Wildcard.png",
         "card_text_color": "#FFEFBE",
-        "card_playstyle_color": "#307962",
+        "card_playstyle_color": "#083824",
         "isIcon": true
     },
     {
@@ -139,47 +174,6 @@
         "card_text_color": "#ffffff",
         "card_playstyle_color": "#171d88",
         "isIcon": true
-    },
-    {
-        "card_name": "Icon",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Icon.png",
-        "card_text_color": "#594d2c",
-        "card_playstyle_color": "#dbdbdb",
-        "isIcon": false
-    },
-    {
-        "card_name": "FUT Heroes",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/FUT%20Heroes.png",
-        "card_text_color": "#ffd44f",
-        "card_playstyle_color": "#493881",
-        "isIcon": true
-    },
-    {
-        "card_name": "TOTW",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/TOTW.png",
-        "card_text_color": "#f6db7b",
-        "card_playstyle_color": "#0f0d0d",
-        "isIcon": true
-    },
-    {
-        "card_name": "Rare Gold",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Gold.png",
-        "card_text_color": "#40351d",
-        "card_playstyle_color": "#e1b866",
-        "isIcon": false
-    },
-    {
-        "card_name": "Rare Silver",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Silver.png",
-        "card_text_color": "#2c2c2c",
-        "card_playstyle_color": "#bcbec1",
-        "isIcon": false
-    },
-    {
-        "card_name": "Rare Bronze",
-        "card_image_url": "https://raw.githubusercontent.com/fifascoutapp/fifascoutapp.github.io/refs/heads/master/raw/fc27/Rare%20Bronze.png",
-        "card_text_color": "#3e281c",
-        "card_playstyle_color": "#fdad8a",
-        "isIcon": false
-    },
+    }
+    
 ]
